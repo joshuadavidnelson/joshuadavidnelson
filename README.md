@@ -2,7 +2,7 @@
 
 One-time award-winning mead-maker, full-time engineer, and steadfast Oxford Comma user.
 
-I build mostly WordPress things, and other web stuff sometimes, from Seattle. I run Hand Forged Web, LLC, and I maintain a handful of open-source WordPress plugins in my spare time.
+I build mostly WordPress things, and other web stuff sometimes; typically php, javascript, typescript, etc. I run Hand Forged Web, LLC and I am a Senior Software Engineer at Rover.com. I maintain a handful of open-source WordPress plugins in my spare time.
 
 ## 🔌 Plugins I maintain
 
@@ -17,7 +17,6 @@ Bug reports and pull requests are welcome. Each repository's README has its cont
 ## 📫 Find me
 
 - Website: [joshuadnelson.com](http://joshuadnelson.com)
-- X: [@onemorejosh](https://x.com/onemorejosh)
 - Email: [josh@joshuadnelson.com](mailto:josh@joshuadnelson.com)
 
 ## ☕ Support my work
