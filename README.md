@@ -1,4 +1,4 @@
-# Hi, I'm Josh 👋
+# I'm Joshua
 
 One-time award-winning mead-maker, full-time engineer, and steadfast Oxford Comma user.
 
